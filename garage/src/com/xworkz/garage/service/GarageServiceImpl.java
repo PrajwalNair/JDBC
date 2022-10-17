@@ -39,7 +39,7 @@ public class GarageServiceImpl implements GarageService{
 				}else {
 					System.err.println("state is invalid");
 				}
-			}else {
+			} else {
 				System.err.println("name is invalid");
 			}
 		}else {
